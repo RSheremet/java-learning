@@ -1,1 +1,9 @@
+/Users/romansheremet/Desktop/JavaTest/src/main/java/com/example/controller/AuthController.java
+/Users/romansheremet/Desktop/JavaTest/src/main/java/com/example/model/entity/User.java
+/Users/romansheremet/Desktop/JavaTest/src/main/java/com/example/exception/UserAlreadyExistsException.java
+/Users/romansheremet/Desktop/JavaTest/src/main/java/com/example/database/DatabaseConnection.java
+/Users/romansheremet/Desktop/JavaTest/src/main/java/com/example/repository/UserRepository.java
+/Users/romansheremet/Desktop/JavaTest/src/main/java/com/example/config/SecurityConfig.java
 /Users/romansheremet/Desktop/JavaTest/src/main/java/com/example/Main.java
+/Users/romansheremet/Desktop/JavaTest/src/main/java/com/example/model/dto/RegistrationRequest.java
+/Users/romansheremet/Desktop/JavaTest/src/main/java/com/example/service/UserService.java
